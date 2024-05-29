@@ -7,17 +7,17 @@
 }
 
 h1{
-    background-image: linear-gradient(
-        90deg, #09fd2e, #3fec3f
-    );
-
+    background-image: linear-gradient(90deg, #09fd2e, #3fec3f);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-
     padding: 0 5px;
-    letter-spacing: 1px;
+    letter-spacing: 1px;    
+}
 
-    
+.text-5xl{
+    line-height:normal;
+    font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+    font-size: 60px;
 }
 
 .py-6{
