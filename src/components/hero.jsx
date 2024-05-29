@@ -31,6 +31,7 @@ function hero(){
                         </label>
                     </div>
                     <button className="btn btn-primary">Get Started</button>
+                    
                 </div>
             </div>
         </div>
