@@ -5,3 +5,19 @@
 .check-img{
     width: 25px;
 }
+
+h1{
+    background-image: linear-gradient(
+        90deg, #09fd2e, #3fec3f
+    );
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    padding: 0 5px;
+    letter-spacing: 1px;
+
+    
+}
+
+
