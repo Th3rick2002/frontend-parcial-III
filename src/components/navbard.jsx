@@ -1,8 +1,8 @@
 import React from "react";
-import './hero.css'
 
 
-function navbard (){
+
+function Navbard (){
     return(
         <div className="navbar bg-base-100">
             <div className="flex-1">
@@ -21,4 +21,4 @@ function navbard (){
     )
 }
 
-export default navbard;
+export default Navbard;
